@@ -7,7 +7,7 @@ public class dhfngfqa
 	public static void main(String[] args)
 	{
 	
-		System.out.println("before test");
+		System.out.println("after test");
 	
 }
 }
